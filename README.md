@@ -14,7 +14,9 @@ How to use:
 
 ## Source:
 openssl.org documentation - enc
+
 ..*https://wiki.openssl.org/index.php/Enc
 
 Stackoverflow: Looping through the content of a file in Bash?
+
 ..*https://stackoverflow.com/questions/1521462/looping-through-the-content-of-a-file-in-bash
