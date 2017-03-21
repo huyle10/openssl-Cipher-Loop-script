@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Sample command: ./decrypt-tool.sh plans wheaton
 ipath=./$1 #encrypted message filepath
 pass=$2
 
