@@ -12,6 +12,10 @@ How to use:
 
 >./decrypt-tool.sh plans wheaton
 
+## version 2
+
+USAGE: ./brutedecyptv2.sh <input file> <output file> <password> [cipher]
+
 ## Source:
 1. openssl.org documentation - enc
 
