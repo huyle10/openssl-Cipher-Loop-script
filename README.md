@@ -14,7 +14,7 @@ How to use:
 
 ## version 2
 
-`USAGE: ./brutedecyptv2.sh <input file> <output file> <password> [cipher]
+>.USAGE: ./brutedecyptv2.sh <input file> <output file> <password> [cipher]
 
 ## Source:
 1. openssl.org documentation - enc
